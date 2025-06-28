@@ -18,7 +18,3 @@ This project aims to promote digital well-being by helping users recognize and m
 
 ### 📸 Sample Output Screenshot
 ![Social_media output 1](Social_media output 1.png)
-
-![Social_media output 2](Social_media output 2.png)
-
-![Social_media output 2 continue](Social_media output 2 continue.png)
